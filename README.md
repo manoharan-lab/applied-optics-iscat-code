@@ -1,10 +1,10 @@
 # Code for generative modeling and Bayesian analysis of data for interferometric scattering microscopy
 
-See the following publication for additional details:
+This repository contains Python scripts and Jupyter notebooks for analyzing data from interferometric scattering microscopy.  Xander de Wit is the primary author of the code.  Please see the following publication for additional details and cite it if you use the code in your work:
 
-de Wit, X. M., Paine, A. W., Martin, C., Goldfain, A. M., Garmann, R. F., & Manoharan, V. N. (2023). Precise characterization of nanometer-scale systems using interferometric scattering microscopy and Bayesian analysis. _Applied Optics_.
+Xander M. de Wit, Amelia W. Paine, Caroline Martin, Aaron M. Goldfain, Rees F. Garmann, and Vinothan N. Manoharan, "Precise characterization of nanometer-scale systems using interferometric scattering microscopy and Bayesian analysis," _Applied Optics_ 62, 7205-7215 (2023) 
 
-Please consult the main notebook `main.ipynb` for details and instructions on the code.
+Please consult the main notebook `main.ipynb` for details and instructions.
 
 All data required for the main notebook as well the auxiliary .py scripts are available for download in the [Harvard Dataverse repository](https://doi.org/10.7910/DVN/N7GJYC). Please download all files and place them in the `data/` directory.
 
